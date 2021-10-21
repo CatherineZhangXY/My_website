@@ -73,7 +73,7 @@ params:
         url: blogs
       - name: Generic Blog
         url: blogs/ipsum
-      - name: Elements
+      - name: Excurricular Activities
         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
@@ -82,11 +82,11 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: Background Information
+        title: About Me
+        url: blogs/Xinyue Zhang (Catherine) CV.pdf
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: Education Background
         title: Tempus
         url: blogs/tempus
       - image: pic03.jpg
