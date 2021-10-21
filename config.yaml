@@ -90,17 +90,17 @@ params:
         title: Tempus
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: Group Project
+        title: AirBnB Prices in Vienna (Data Analytics Group Assignment) 
+        url: blogs/ca09_group3_project_vF.html
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Returns of financial stocks
+        title: Dow Jones Industrial Average (DJIA) Stocks Risk Return
+        url: blogs/risk_return.html
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
