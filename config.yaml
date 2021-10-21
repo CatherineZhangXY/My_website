@@ -108,7 +108,7 @@ params:
       - image: selfphoto.jpg
         subtitle: Lifestyle & Interest
         title: Excurricular Activities
-        url: blogs/life1.jpg
+        url: blogs/life-1.jpg
   two:
     buttonText: Get Started
     enable: yes
