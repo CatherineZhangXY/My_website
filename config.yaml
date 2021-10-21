@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL:  https://catherine-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Catherine Xinyue Zhang
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,24 +8,24 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+     Master in Financial Analysis student at London Business School
+     
+    title: Hi, my name is Catherine Zhang 
   blog: {}
   contact:
-    address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+    address: 105 Lyndhurst Court, 36-38 Finchley Road, London, NW8 6EX
+      - city: London, ST NW8 6EX
+        country: London
+        street: Baker Street
+        title: address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: catherinez.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+86) 156-1109-1201
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,9 +35,9 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: 
     enable: yes
-    quicklinks:
+    quicklinks: 
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
@@ -53,12 +53,12 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/CatherineZhangXY?tab=repositories
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
-  image: ''
-  name: Your name
+        url: www.linkedin.com/in/xinyue-zhang-catherine
+  image: Catherine.jpg
+  name: Xinyue-Zhang-Catherine
   navigation:
     button1:
       - name: Get Started
