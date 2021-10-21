@@ -112,11 +112,9 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Hello! My name is Catherine. I am currently a postgraduate student at London Business School Master in Financial Analysis program. I previous studied finance and business analytics at the University of Sydney in Australia, and had a semester exchange to the Wharton Business School, UPenn. This diverse academic experiences not only equipped me with comprehensive knowledge in equity, fixed income, and capital market, but also arose my keen interest in this financial sector. I also gradually realize that finance is widely used in our daily life, and learning finance is helpful to our financial decision-making and improves my understanding of the market operation. 
+My distinct academic performances lied me solid foundations in finance, which brought me great confidence to perform well as the Asset Management Program. 
+Later on, I further enhanced my professional skills and strengthened my passion in the financial sector after my previous internships. During my two most recent banking internships at CICC and Huatai, I participated in live deals of A-share and Hong Kong IPOs for our global clients. Specifically, I worked in a team with 6 colleages to prepare pitchbooks and valuation materials, and analyzed various TMT & real estate companies. I also evaluated a U.S. top SaaS company regarding business highlights, financial performance, and industry competition and delivered presentation to the management team. Moreover, I accumulated asset management experience from industrial projects. In the project of managing 9 US funds, I established 5-factor regression models, and used asset allocation strategies to come up with the optimal portfolio with 23% return against investor’s risk tolerance. 
+."
+    title: Self Introduction
     url: blogs
