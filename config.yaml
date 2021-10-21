@@ -1,7 +1,7 @@
 baseURL:  https://catherine-portfolio.netlify.app/
 languageCode: en-us
 title: Portfolio website for Catherine Xinyue Zhang
-theme: forty
+theme: Catherine Zhang
 googleAnalytics: ''
 disqusShortname: ''
 params: 
@@ -92,7 +92,7 @@ params:
       - image: Professionalphoto.jpg
         subtitle: Internships
         title: Professional Work Experience
-        url: blogs/Internship.jpg
+        url: blogs/Internship-1.jpg
       - image: Airbnb.jpg
         subtitle: Group Data Analysis Project
         title: AirBnB Prices in Vienna (Data Analytics Group Assignment) 
@@ -108,7 +108,7 @@ params:
       - image: selfphoto.jpg
         subtitle: Lifestyle & Interest
         title: Excurricular Activities
-        url: blogs/life1.jpeg
+        url: blogs/life1.jpg
   two:
     buttonText: Get Started
     enable: yes
