@@ -100,7 +100,7 @@ params:
       - image: pic05.jpg
         subtitle: Returns of financial stocks
         title: Dow Jones Industrial Average (DJIA) Stocks Risk Return
-        url: blogs/risk_return.html
+        url: blogs/risk_return.Rmd
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
