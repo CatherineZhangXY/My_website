@@ -7,13 +7,13 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-     Master in Financial Analysis student at London Business School
+    subtitle: |- 
+        Master in Financial Analysis student at London Business School
      
     title: Hi, my name is Catherine Zhang 
   blog: {}
   contact:
-    address: 105 Lyndhurst Court, 36-38 Finchley Road, London, NW8 6EX
+    address: 
       - city: London, ST NW8 6EX
         country: London
         street: Baker Street
