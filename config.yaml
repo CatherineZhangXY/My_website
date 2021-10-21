@@ -4,11 +4,11 @@ title: Portfolio website for Catherine Xinyue Zhang
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
-params:
+params: 
   banner:
     buttonText: Get Started
     subtitle: |- 
-        Master in Financial Analysis student at London Business School
+        Master in Financial Analysis student at London Business School (LBS)
      
     title: Hi, my name is Catherine Zhang 
   blog: {}
