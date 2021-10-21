@@ -81,30 +81,34 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: ID photo.jpg
         subtitle: Background Information
         title: About Me
         url: blogs/Xinyue Zhang (Catherine) CV.pdf
-      - image: pic02.jpg
+      - image: Education.jpg
         subtitle: Education Background
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Group Project
+        title: Diverse Academic Experience
+        url: blogs/EducationBackground.jpg
+      - image: Professionalphoto.jpg
+        subtitle: Internships
+        title: Professional Work Experience
+        url: blogs/Internship.jpg
+      - image: Airbnb.jpg
+        subtitle: Group Data Analysis Project
         title: AirBnB Prices in Vienna (Data Analytics Group Assignment) 
         url: blogs/ca09_group3_project_vF.html
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
+      - image: higherEducation.jpg
+        subtitle: Research Topic of Higher Education Under the Pandemic
+        title: Covid-19 & The Rise Of Micro-Credentials
+        url: blogs/Accenture-Group-Report-Micro-Credentials.pdf
+      - image: stock.jpg
         subtitle: Returns of financial stocks
         title: Dow Jones Industrial Average (DJIA) Stocks Risk Return
-        url: blogs/risk_return.Rmd
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: blogs/risk_return.html
+      - image: selfphoto.jpg
+        subtitle: Lifestyle & Interest
+        title: Excurricular Activities
+        url: blogs/Life.jpg
   two:
     buttonText: Get Started
     enable: yes
