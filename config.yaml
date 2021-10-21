@@ -88,7 +88,7 @@ params:
       - image: Education.jpg
         subtitle: Education Background
         title: Diverse Academic Experience
-        url: blogs/EducationBackground.jpg
+        url: blogs/EducationBackground.jpeg
       - image: Professionalphoto.jpg
         subtitle: Internships
         title: Professional Work Experience
@@ -105,7 +105,7 @@ params:
         subtitle: Returns of financial stocks
         title: Dow Jones Industrial Average (DJIA) Stocks Risk Return
         url: blogs/risk_return.html
-      - image: selfphoto.jpg
+      - image: selfphoto.jpeg
         subtitle: Lifestyle & Interest
         title: Excurricular Activities
         url: blogs/Life.jpg
