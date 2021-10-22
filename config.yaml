@@ -106,9 +106,9 @@ params:
         title: Dow Jones Industrial Average (DJIA) Stocks Risk Return
         url: blogs/risk_return.html
       - image: selfphoto.jpg
-        subtitle: Lifestyle & Interest
-        title: Excurricular Activities
-        url: blogs/Life.jpg
+        subtitle: Data Analysis
+        title: Analytical Works
+        url: blogs/CA09_Homework3_Group B3.Rmd
   two:
     buttonText: Get Started
     enable: yes
